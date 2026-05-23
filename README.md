@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an A2 student currently surviving the sciences and CS theories. I got into coding because I like to make computer do work. Code might be mess, but it gets the job done.<br><br>⚽ Football fan | 🎮 Gamer | 🐍 Pythonist | 🎓 Goal: Finish A-Levels without losing my mind.
+I am an A2 student currently surviving the sciences and CS theories. I got into coding because I like to make computer do work. Code might be mess, but it gets the job done.<br><br>⚽ Football fan ( Culer forever ) | 🎮 Gamer | 🐍 Pythonist | 🎓 Goal: Finish A-Levels without losing my mind.
 
 
 ## 🌐 Socials:
